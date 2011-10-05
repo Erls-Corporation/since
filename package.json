@@ -1,11 +1,12 @@
 {
   "author": "Edward Hotchkiss <e@ingk.com>",
-  "name": "since",
-  "description": "Super simple Node.js time since delta return. I just use it to serve uptime",
-  "version": "0.0.2",
+  "name": "pimp",
+  "description": "PimpScript is a little language that compiles into JavaScript.",
+  "version": "0.0.0",
+  
   "repository": {
     "type": "git",
-    "url": "git://github.com/edwardhotchkiss/since.git"
+    "url": "git://github.com/edwardhotchkiss/pimp-script.git"
   },
   "main": "./index",
   "engines": {
